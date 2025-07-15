@@ -41,7 +41,7 @@ Whether you're scaling offers or protecting your funnel, AdCloaking is your secr
 ## 🌐 Learn More | 深入了解
 
 - 官方网站：[https://adcloaking.com](https://adcloaking.com)
-- 合作咨询：contact@adcloaking.com
+- 合作咨询：[tg](https://t.me/AdCloaking)
 
 ---
 
@@ -56,8 +56,8 @@ Any misuse that violates the terms of advertising platforms is strictly prohibit
 
 ## 👤 Maintainer | 项目维护人
 
-[AdCloaking Team](https://github.com/yourname)  
-📬 tg: [contact@adcloaking.com  ](https://t.me/AdCloaking)
+[AdCloaking Team](https://github.com/adcloaking)  
+📬 tg: [tg](https://t.me/AdCloaking)
 🌍 Website: [https://adcloaking.com](https://adcloaking.com)
 
 ---
